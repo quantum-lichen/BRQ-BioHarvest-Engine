@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces travaux, merci de les citer comme suit."
+authors:
+  - family-names: Ouellette
+    given-names: Bryan
+    email: lmc.theory@gmail.com
+    affiliation: Lichen-Collectives
+title: "Conception Système Énergie Verte Avancée : Architecture de Convergence Bio-Quantique Résonante"
+version: 1.0.0
+date-released: 2026-02-06
+url: "https://github.com/Lichen-Collectives/BRQ-BioHarvest-Engine"
+abstract: >-
+  Ce rapport présente la conception théorique du système Bio-Résonant Quantique (BRQ),
+  une infrastructure de production décentralisée conçue pour fonctionner de manière
+  autonome en recyclant les flux d'information et d'énergie résiduelle de l'environnement.
+  Il intègre la biologie quantique, les liquides de Tomonaga-Luttinger et les
+  nanogénérateurs triboélectriques.
