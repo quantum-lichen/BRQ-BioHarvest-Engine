@@ -12,14 +12,14 @@ Conçu comme une structure foliacée synthétique, le BRQ utilise des antennes p
 ## ⚛️ Formalisme Mathématique
 
 ### 1. Efficacité de Conversion (Limite Hors-Équilibre)
-[cite_start]Contrairement aux cycles classiques limités par Carnot, le convertisseur à liquide de Tomonaga-Luttinger (TL) exploite des distributions de Fermi binaires pour dépasser la limite de Curzon-Ahlborn:
+Contrairement aux cycles classiques limités par Carnot, le convertisseur à liquide de Tomonaga-Luttinger (TL) exploite des distributions de Fermi binaires pour dépasser la limite de Curzon-Ahlborn:
 
 $$\eta > 1 - \sqrt{\frac{T_c}{T_h}}$$
 
 Où $T_c$ et $T_h$ sont les températures des réservoirs froid et chaud. [cite_start]La force électromotrice générée est $2$ à $3$ fois supérieure aux convertisseurs classiques.
 
 ### 2. Dynamique des Batteries Quantiques (Modèle de Dicke)
-[cite_start]Le stockage repose sur la super-absorption dans une microcavité, où la puissance de charge $P$ augmente de manière super-linéaire avec le nombre de cellules $N$:
+Le stockage repose sur la super-absorption dans une microcavité, où la puissance de charge $P$ augmente de manière super-linéaire avec le nombre de cellules $N$:
 
 $$P \propto N^2$$
 
